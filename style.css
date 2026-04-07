@@ -1,5 +1,5 @@
-/*  */
-
+/* Quicksand */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 
 *{
     padding: 0;
@@ -7,7 +7,7 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 .container{
@@ -140,7 +140,7 @@
 /* heder2 */
 .header2{
     padding: 0 150px;
-    height: 70px;
+    height: 80px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -169,7 +169,7 @@
 .header2__box--ul{
     display: flex;
     align-items: center;
-    gap: 60px;
+    gap: 40px;
 }
 
 .header2__box--ul--li{
@@ -191,7 +191,6 @@
     font-size: 26px;
     color: #3BB77E;
     font-weight: 700;
-    margin-bottom: 5px;
 }
 
 .header2__box2--paragrf{
