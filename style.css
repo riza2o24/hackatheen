@@ -493,3 +493,54 @@
     align-items: center;
     gap: 9px;
 }
+
+
+
+
+
+
+
+
+
+/* product2 */
+.product2__box--text{
+    font-size: 24px;
+    font-weight: 700;
+    color: #253D4E;
+    margin-bottom: 20px;
+}
+
+.carzinka__cards{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.carzinka__card--h3{
+    width: 190px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #253D4E;
+    margin-bottom: 10px;
+}
+
+.flex2{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: 10px;
+}
+
+.flex2__paragrf{
+    font-size: 18px;
+    font-weight: 700;
+    color: #3BB77E;
+}
+
+.flex2__span{
+    font-size: 14px;
+    font-weight: 700;
+    color: #7E7E7E;
+}
+
