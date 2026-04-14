@@ -503,11 +503,20 @@
 
 
 /* product2 */
+.product2{
+    padding: 0 150px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
 .product2__box--text{
     font-size: 24px;
     font-weight: 700;
     color: #253D4E;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .carzinka__cards{
@@ -544,3 +553,60 @@
     color: #7E7E7E;
 }
 
+
+
+/* main3 */
+.main3{
+    padding: 0 150px;
+    margin-bottom: 25px;
+}
+
+.main3__box{
+    width: 100%;
+    height: 469px;
+    background-image: url(image/bd925a42b9f543ed79db19d2abeed5808dc612f9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 85px 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    border-radius: 25px;
+}
+
+
+.sdfg{
+    margin: 0;
+}
+
+.main3__h3{
+    width: 1100px;
+    font-size: 72px;
+    font-weight: 700;
+    color: #253D4E;
+    margin-bottom: 20px;
+}
+
+.main3__p{
+    margin-bottom: 40px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #7E7E7E;
+}
+
+
+#input22{
+    outline: none;
+    background: none;
+    border: none;
+    width: 290px;
+    height: 30px;
+}
+
+.images{
+    position: absolute;
+    margin-left: 895px;
+    margin-top: 120px;
+    border-radius: 0 0 25px 0 ;
+}
