@@ -273,6 +273,7 @@
     justify-content: space-between;
     padding: 0 150px;
     margin-bottom: 40px;
+    gap: 50px;
 }
 
 .main1__header{
@@ -785,4 +786,17 @@
     font-size: 16px;
     font-weight: 400;
     color: #7E7E7E;
+}
+
+
+
+
+/* index2.html */
+
+
+/* main__API--box */
+.main__API--box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
