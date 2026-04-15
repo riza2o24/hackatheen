@@ -798,5 +798,114 @@
 .main__API--box{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    gap: 50px;
+}
+
+.main__box--text{
+    width: 484px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #242424;
+    margin-top: 22px;
+    margin-bottom: 30px;
+}
+
+.flex4{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 33px;
+    margin-top: 20px;
+}
+
+.flex7{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.flex4__h2{
+    font-size: 58px;
+    font-weight: 700;
+    color: #3BB77E;
+}
+
+.flex4__span{
+    font-size: 12px;
+    font-weight: 600;
+    color: #FDC040;
+    margin-bottom: 8px;
+}
+
+
+.flex4__p{
+    color: #B6B6B6;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.main__box--paragrf{
+    width: 496px;
+    font-size: 17px;
+    font-weight: 400;
+    color: #B6B6B6;
+}
+
+.flex5{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 36px ;
+    margin-bottom: 34px;
+}
+
+
+.flex5__p{
+    font-size: 14px;
+    font-weight: 600;
+    color: #B6B6B6;
+}
+
+.flex5__p2{
+    width: 40px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #B6B6B6;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.flex5__p2:hover{
+    width: 40px;
+    height: 32px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #3BB77E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.flex6{
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.flex6__btn{
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3BB77E;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.images2{
+    width: 700px;
+    height: 650px;
 }
