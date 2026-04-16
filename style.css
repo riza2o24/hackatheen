@@ -276,6 +276,13 @@
     gap: 50px;
 }
 
+#main__API{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 30px;
+    align-items: center;
+}
+
 .main1__header{
     width: 1280px;
     display: flex;
