@@ -1342,6 +1342,65 @@ cursor:pointer;
     }
 }
 
+
+@media(max-width:1700px){
+    .container{
+    width: 1700px;
+    max-width: 1700px;
+    }
+
+    .sign{
+        padding: 50px;
+    }
+
+    .header{
+        padding: 0 50px;
+    }
+
+    .header2{
+        padding: 0 50px;
+    }
+
+    .hero{
+        padding: 0 50px;
+    }
+
+    .main{
+       padding: 0 50px;     
+    }
+
+    .product{
+        padding: 0 50px;
+    }
+
+    .carzinka{
+        padding: 0 50px;
+    }
+
+
+    .product2{
+        padding: 0 50px;
+    }
+
+    .main3{
+        padding: 0 50px;
+    }
+
+    .cards{
+        padding: 0 50px;
+    }
+
+    .footer{
+        padding: 0 50px;
+    }
+
+    .footer2{
+       padding: 0 50px;     
+    }
+
+}
+
+
 @media(max-width:1700px){
     .container{
     width: 1700px;
